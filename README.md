@@ -28,7 +28,7 @@ HTML Templates from: https://github.com/bigbrodude6119/flipper-zero-evil-portal/
 
 
 # Note 
-Upon initial connect to the AP opens a captive portal that states "No HTML tempate uploaded", 
+Upon initial connect to the AP opens a captive portal that states "No HTML tempate uploaded" (again, simply navigate to 192.168.4.1/admin),
 when inputing an html template from online, it will update the captive portal automatically.
 I did not want to hardcode different templates for each portal.. why not just copy and paste 
 existing portals!!! 🤔📝
