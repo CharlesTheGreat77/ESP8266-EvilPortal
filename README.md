@@ -19,6 +19,14 @@ Download and flash the INO file and look for ESP8266AP as a softAP
 To access the web interface, go to http://192.168.4.1/admin in your favorite web browser.
 Web interface username and password is admin:admin
 
+# Usage
+![Portal](https://github.com/CharlesTheGreat77/ESP8266-EvilPortal/assets/27988707/d22f2641-5238-456d-94a7-2a6ec93ded67)
+HTML Templates from: https://github.com/bigbrodude6119/flipper-zero-evil-portal/tree/main/portals
+
+# Captive Portal Example
+![Google](https://github.com/CharlesTheGreat77/ESP8266-EvilPortal/assets/27988707/7e51e557-beba-41e6-8f20-b996c95a5614)
+
+
 # Note 
 Upon initial connect to the AP opens a captive portal that states "No HTML tempate uploaded", 
 when inputing an html template from online, it will update the captive portal automatically.
